@@ -7,7 +7,9 @@ To start, python isn't the only option out there. At a minimum there are Python,
 # Installation
 
 Linux = apt-get or yum or whatever native package management
+
 Mac = homebrew or anaconda is the choice
+
 Windows = I'm so sorry it's come to this...anaconda is fine, but it has its limits
 
 
