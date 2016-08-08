@@ -12,7 +12,7 @@ Windows = I'm so sorry it's come to this...anaconda is fine, but it has its limi
 
 
 # Numpy Introduction
-https://github.com/SeanBryan/DesertPy_Data_Science_Talk/blob/master/numpy_talk/numpy_outline.py
+numpy_outline.py from github.com/SeanBryan/DesertPy_Data_Science_Talk/tree/master/numpy_talk
 
 # Getting Started with Pandas
 
@@ -20,4 +20,7 @@ pandas_demo.py is based on an example in the excellent Python for Data Analysis 
 
 # Using Pandas with SQL
 
-The other files comprise the pandas/SQL integration demo that I followed from https://plot.ly/python/big-data-analytics-with-pandas-and-sqlite/ which has a link to the large multi-gigabyte data file you need. To help just get started, I included the first 400 lines of that big file as a csv.
+The other files comprise the pandas/SQL integration demo that I followed from plot.ly/python/big-data-analytics-with-pandas-and-sqlite which has a link to the large multi-gigabyte data file you need. To help just get started, I included the first 400 lines of that big file as a csv.
+
+# More plotting and fitting data
+github.com/SeanBryan/DesertPy_Data_Science_Talk/tree/master/emcee_mcmc_and_fitting_talk
