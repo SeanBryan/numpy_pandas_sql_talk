@@ -55,7 +55,7 @@ import matplotlib.pyplot as plt
 plt.ion()
 
 ax = ranked_by_complaints_df.plot(kind='bar')
-ax.set_xticklabels(df.Agency,rotation=90)
+ax.set_xticklabels(ranked_by_complaints_df.Agency,rotation=90)
 plt.yscale('log')
 plt.tight_layout()
 
