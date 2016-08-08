@@ -18,7 +18,9 @@ numpy_outline.py from https://github.com/SeanBryan/DesertPy_Data_Science_Talk/tr
 
 # Getting Started with Pandas
 
-pandas_demo.py is based on an example in the excellent Python for Data Analysis book. The example depends on downloading data from https://github.com/wesm/pydata-book/tree/master/ch02/names
+pandas_demo.ipynb is based on an example in the excellent Python for Data Analysis book. The example depends on downloading data from https://github.com/wesm/pydata-book/tree/master/ch02/names
+
+The example also depends on using jupyter notebook. Jupyter is essentially the mathematica user interface, but made available for python, R, and other languages. (That's either a good thing, or a bad thing!)
 
 # Using Pandas with SQL
 
