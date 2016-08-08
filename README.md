@@ -28,3 +28,7 @@ The other files comprise the pandas/SQL integration demo that I followed from ht
 
 # More plotting and fitting data
 http://github.com/SeanBryan/DesertPy_Data_Science_Talk/tree/master/emcee_mcmc_and_fitting_talk
+
+# Matlab Plotting Example
+
+fancyMatlabPlots.m
