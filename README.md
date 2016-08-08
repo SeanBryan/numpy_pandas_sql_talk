@@ -1,4 +1,4 @@
-# SESE Bootcamp Talk on Numpy, Pandas, and SQLite
+# SESE Bootcamp Talk on Python, Numpy, Pandas, and SQLite
 
 Hi Everyone! This is the material for my basic introduction to analyzing scientific data with python
 
