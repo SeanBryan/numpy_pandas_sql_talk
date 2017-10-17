@@ -24,7 +24,7 @@ The example also depends on using jupyter notebook. Jupyter is essentially the m
 
 # Using Pandas with SQL
 
-The other files comprise the pandas/SQL integration demo that I followed from https://plot.ly/python/big-data-analytics-with-pandas-and-sqlite which has a link to the large multi-gigabyte data file you need. To help just get started, I included the first 400 lines of that big file as a csv.
+The other files comprise the pandas/SQL integration demo that I followed from https://plot.ly/python/big-data-analytics-with-pandas-and-sqlite which has a link to the large multi-gigabyte data file you need. (2017 note, the file in that website moved, now it is here: https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9 )To help just get started, I included the first 400 lines of that big file as a csv.
 
 # More plotting and fitting data
 http://github.com/SeanBryan/DesertPy_Data_Science_Talk/tree/master/emcee_mcmc_and_fitting_talk
